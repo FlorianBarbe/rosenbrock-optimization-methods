@@ -46,7 +46,6 @@ $$
 
 - MATLAB, testé avec MATLAB R2025b ;
 - aucune dépendance à Optimization Toolbox ou Symbolic Math Toolbox ;
-- une installation LaTeX est seulement nécessaire pour recompiler le rapport.
 
 ## Exécution
 
@@ -112,7 +111,6 @@ pas unitaire depuis le premier point est conservée dans les résultats.
 ├── verify_derivatives.m
 ├── export_figures.m
 ├── figures/
-├── rapport/Rapport.tex
 ├── rapport/Rapport.pdf
 └── csopt_tp_2020.pdf
 ```
