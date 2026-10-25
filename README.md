@@ -115,7 +115,6 @@ strong influence of the initial point.
 ├── verify_derivatives.m    # finite-difference verification
 ├── export_figures.m        # explicit figure and CSV export
 ├── figures/                # generated figures and numerical tables
-├── rapport/Rapport.tex     # scientific report source
 ├── rapport/Rapport.pdf     # compiled report
 └── csopt_tp_2020.pdf       # original educational assignment
 ```
