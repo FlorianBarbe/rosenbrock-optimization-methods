@@ -9,6 +9,9 @@ codegen/
 /validation_results.mat
 /backup_before_github_polish_*/
 
+# Private LaTeX source
+/rapport/Rapport.tex
+
 # LaTeX intermediate files (keep Rapport.pdf)
 rapport/*.aux
 rapport/*.bbl
