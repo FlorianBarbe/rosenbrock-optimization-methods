@@ -46,7 +46,6 @@ $$
 
 - MATLAB; tested with MATLAB R2025b;
 - no Optimization Toolbox or Symbolic Math Toolbox is required;
-- a LaTeX installation is optional and only needed to rebuild the report.
 
 ## Running the experiments
 
