@@ -2,6 +2,13 @@
 
 [English](README.md) | [Français](README.fr.md)
 
+## Travail réalisé
+
+- Implémentation MATLAB de méthodes de gradient, Newton, BFGS, Gauss-Newton et Levenberg-Marquardt.
+- Comparaison des trajectoires, des critères d'arrêt et de la sensibilité au point initial.
+- Vérification des dérivées par différences finies et analyse de la stagnation, de la divergence et des limites numériques.
+
+
 Ce projet propose une implémentation MATLAB, réalisée sans solveur
 d'optimisation externe, de plusieurs méthodes classiques d'optimisation non
 linéaire appliquées à la fonction de Rosenbrock généralisée. Il s'appuie sur le

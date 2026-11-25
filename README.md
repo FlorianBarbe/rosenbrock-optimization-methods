@@ -2,6 +2,13 @@
 
 [English](README.md) | [Français](README.fr.md)
 
+## Work carried out
+
+- MATLAB implementation of gradient, Newton, BFGS, Gauss-Newton and Levenberg-Marquardt methods.
+- Comparison of optimization trajectories, stopping criteria and sensitivity to initialization.
+- Finite-difference derivative checks and discussion of stagnation, divergence and numerical limitations.
+
+
 A from-scratch MATLAB implementation and comparison of classical nonlinear
 optimization methods on the generalized Rosenbrock function. The project is
 based on the first exercise of an educational scientific-computing assignment,
